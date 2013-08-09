@@ -17,7 +17,7 @@ function box2dEvents(Box2D, world) {
   }
 
   b2Fixture.prototype.Destroy = function() {
-    var idx = fixtures.indexOf(fixture)
+    var idx = fixtures.indexOf(this)
     if (idx !== -1) {
       fixtures[idx].emitter.emit('destroy')
       fixtures.splice(idx, 1)

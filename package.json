@@ -1,0 +1,25 @@
+{
+  "name": "box2d-events",
+  "version": "0.0.0",
+  "description": "Easier event listening for Box2D collisions",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/box2d-events.git"
+  },
+  "keywords": [
+    "box2d",
+    "physics",
+    "collisions",
+    "events",
+    "emitter"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}

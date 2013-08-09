@@ -1,6 +1,6 @@
 {
   "name": "box2d-events",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Easier event listening for Box2D collisions",
   "main": "index.js",
   "dependencies": {},
